@@ -7,4 +7,4 @@ In command mode we can give voice commands.
 
 It also has different speed modes.
 
-For some reasons I couldn't upload circuit diagram bur only Arduino code
+For some reasons I couldn't upload circuit diagram but only Arduino code
